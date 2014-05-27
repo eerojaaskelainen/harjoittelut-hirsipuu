@@ -1,0 +1,4 @@
+harjoittelut-hirsipuu
+=====================
+
+Sovelluskehittäjäkoulutuksen harjoitustyö
