@@ -6,6 +6,8 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	setlocale(LC_ALL, "Finnish");		// Asetetaan ääkköset konsolille toimimaan
+
 	// Hirsipuu: Peli jossa arvataan tietokoneen arpoma sana.
 	Hirsipuu peli;								//Peliolion instanssi
 	string syote = "";

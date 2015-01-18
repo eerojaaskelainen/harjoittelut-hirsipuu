@@ -56,5 +56,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="sanat.csv" />
+    <None Include="..\..\..\..\output\Hirsipuu_demo_setup.exe" />
   </ItemGroup>
 </Project>
